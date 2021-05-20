@@ -1,0 +1,73 @@
+Task 1:
+
+
+Crime and Punishment
+Don Quixote
+Hamlet
+HarryPoter
+Moby Dick
+The Divine Comedy
+The Great Gatsby
+The Odyssey
+War and Peace
+
+Task 2:
+
+Эака ажсм нэо йескръшкёеп.
+Этот текс был закодирован.
+Task 3:
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Task 4:
+
+true
+Task 5:
+
+true
+Task 6:
+
+33432neorbnEbshtxetsihTErwejr@@
+
+Task 7:
+
+-100
+-13
+-5
+-2
+-1
+3
+5
+6
+44
+13
+100
+
+Task 8:
+
+eggs, I know THAT well enough;
+opportunity of adding, "You're looking for
+two, which gave the Pigeon the
+that she was quite silent for a minute or
+This was such a new idea to Alice,
+
+Task 9:
+
+T
+
+Task 10:
+
+7
+
+Task 11:
+
+true
